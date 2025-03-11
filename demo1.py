@@ -1,4 +1,4 @@
 a = 10
-print("This is my var: ",a)
+print("This is my vars: ",a)
 
 
